@@ -1,0 +1,14 @@
+:root{
+  --primary: #34a7ff;
+  --white: #fffffe;
+  --black: #141414;
+  --grey: #9ba4ad;
+  --headline1: 700 5rem/normal 'Maven Pro';
+  --headline2: 700 1.75rem/normal 'Maven Pro';
+  --headline3: 700 1.625rem/3rem 'Maven Pro';
+  --headline4: 700 1.5rem/normal 'Maven Pro';
+  --button: 700 1.125rem/1.75rem 'Maven Pro';
+  --body1-regular: 400 1.125rem/1.75rem 'Maven Pro';
+  --body1-bold: 700 1.125rem/1.75rem 'Maven Pro';
+  --body2-regular: 400 1rem/normal 'Maven Pro';
+}

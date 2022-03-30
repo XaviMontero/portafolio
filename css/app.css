@@ -1,0 +1,16 @@
+@import url('./root.css');
+@import url('./menu.css');
+@import url('./header.css');
+@import url('./wrapper.css');
+@import url('./presentation.css');
+@import url('./presenstation.css');
+body{
+  font: var(--body1-regular);
+  display: grid;
+  grid-template-rows: 1fr;
+  background-color: var(--black);
+  color: var(--white);
+}
+*{
+  box-sizing: border-box;
+ }
